@@ -1,8 +1,8 @@
     <?php
-        $db_host = "jnc6n3xpbgc3kek2.chr7pe7iynqr.eu-west-1.rds.amazonaws.com"; // 
-        $db_name = "lhgjmfsupyod65vz"; //nombre de base de datos
-        $db_user = "exievz51r0py9g1v"; //nombre de usuario
-        $db_password = "rt3q65w92v53w29q";  //contraseña 
+        $db_host = "jnc6n3xpbgc3kek2.chr7pe7iynqr.eu-west-1.rds.amazonaws.com"; 
+        $db_name = "lhgjmfsupyod65vz"; 
+        $db_user = "exievz51r0py9g1v"; 
+        $db_password = "rt3q65w92v53w29q"; 
     
       $connection = mysqli_connect('nc6n3xpbgc3kek2.chr7pe7iynqr.eu-west-1.rds.amazonaws.com', 'exievz51r0py9g1v', 'rt3q65w92v53w29q');
     
